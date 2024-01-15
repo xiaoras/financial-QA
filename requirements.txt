@@ -1,0 +1,9 @@
+jupyter
+numpy
+scipy
+pandas
+matplotlib
+plotly
+scikit-learn
+openai
+llama-cpp-python
